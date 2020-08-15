@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100%;
+  font-family: "Microsoft YaHei","arial","sans-serif" !important;
+  background-color: #fff;
+	background-size: cover;
+}
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+/*====================*/
+
+.main {
+	background: url("../img/bg.png") no-repeat;
+	background-size: cover;
+	height: 1610vw;
+}
+
+#title {
+	height: 45vw;
+}
+
+#main {
+}
+
+#visual {
+}
+
+.visual img {
+	width: 100%;
+}
+
+.visual .app {
+	height: 85vw;
+}
+
+.visual .web {
+	height: 98vw;
+}
+
+.visual .other {
+	height: 160vw;
+}
+
+.wireframe img {
+	width: 100%;
+}
+
+.wireframe>div {
+	height: 92vw;
+}
+
+.wireframe .last {
+	height: 117vw;
+}
+
+.frontend img {
+	width: 100%;
+}
+
+.frontend>div {
+	height: 102vw;
+}
+
+.icon img {
+	width: 100%;
+}
+
+.icon>div {
+	height: 114vw;
+}
+
+.cartoon img {
+	width: 100%;
+}
+
+.cartoon>div {
+	height: 127vw;
+}
+
+.skill img {
+	width: 100%;
+}
+
+.skill>div {
+	//height: 92vw;
+}
